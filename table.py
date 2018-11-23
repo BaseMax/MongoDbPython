@@ -8,4 +8,4 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 db_name = "name"
 db = client[db_name]
 #Get `post` table
-post_table = db["post"]
+table_post = db["post"]
