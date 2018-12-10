@@ -1,5 +1,5 @@
 # Using MongoDB In Python
-Sample python script to connect mongo database.
+Sample python script to connect **mongo** database.
 
 ## Features 
   - Fast
