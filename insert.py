@@ -1,4 +1,16 @@
-#Some useful libraries
+#!/usr/bin/env python
+###
+#
+# @Name : MongoDbPython/insert.py
+# @Version : 1.0
+# @Programmer : Max
+# @Date : 2018-12
+# @Released under : https://github.com/BaseMax/MongoDbPython/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/MongoDbPython
+#
+###
+
+# Some useful libraries
 import pymongo
 import json
 import os
